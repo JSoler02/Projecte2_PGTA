@@ -12,3 +12,18 @@ C:\Users\julia\Desktop\UNIVERSITAT\CURS 2024-2025\PGTA\Projecte2_PGTA\Projecte2_
 C:\Users\julia\Desktop\UNIVERSITAT\CURS 2024-2025\PGTA\Projecte2_PGTA\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\Projecte2_PGTA.pdb
 C:\Users\julia\Desktop\UNIVERSITAT\CURS 2024-2025\PGTA\Projecte2_PGTA\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\Projecte2_PGTA.genruntimeconfig.cache
 C:\Users\julia\Desktop\UNIVERSITAT\CURS 2024-2025\PGTA\Projecte2_PGTA\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\ref\Projecte2_PGTA.dll
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\bin\Debug\net8.0\Projecte2_PGTA.exe
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\bin\Debug\net8.0\Projecte2_PGTA.deps.json
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\bin\Debug\net8.0\Projecte2_PGTA.runtimeconfig.json
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\bin\Debug\net8.0\Projecte2_PGTA.dll
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\bin\Debug\net8.0\Projecte2_PGTA.pdb
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\Projecte2_PGTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\Projecte2_PGTA.AssemblyInfoInputs.cache
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\Projecte2_PGTA.AssemblyInfo.cs
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\Projecte2_PGTA.csproj.CoreCompileInputs.cache
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\Projecte2_PGTA.sourcelink.json
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\Projecte2_PGTA.dll
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\refint\Projecte2_PGTA.dll
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\Projecte2_PGTA.pdb
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\Projecte2_PGTA.genruntimeconfig.cache
+C:\Users\judig\OneDrive\Escritorio\Projecte2_PGTA\Projecte2_PGTA\obj\Debug\net8.0\ref\Projecte2_PGTA.dll
